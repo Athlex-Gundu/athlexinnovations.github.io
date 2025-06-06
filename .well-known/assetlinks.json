@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.athlex",
+      "package_name": "com.athlex",
+      "sha256_cert_fingerprints": [
+        "sK2RVRarirUhaRPFkZ/pCFNdRTK7H5kG4yQggBQBA9g="
+      ]
+    }
+  }
+]
